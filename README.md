@@ -14,7 +14,7 @@ This repository contains code to perform copula-based probabilistic modeling of 
   - Computation of confidence intervals for the hourly average frequency deviation  
   - Copula-based prediction and evaluation on the test data using energy scores and average CRPS
   - Python version: **3.7.16**
-  - Requirements: requirements_copula.txt`
+  - Requirements: requirements_copula_correction.txt`
 
 
 - **'evaluation.py'** provides code to evaluate the predictive performance of different models using energy scores and average CRPS.

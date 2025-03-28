@@ -12,11 +12,16 @@ This repository contains code to perform copula-based probabilistic modeling of 
   - Feature-based clustering and visualization  
   - Copula-based error correction (copula estimation)  
   - Computation of confidence intervals for the hourly average frequency deviation  
-  - Copula-based prediction and evaluation on the test data using energy scores and average CRPS  
+  - Copula-based prediction and evaluation on the test data using energy scores and average CRPS
+  - Python version: **3.7.16**
+  - Requirements: requirements_copula.txt`
+
 
 - **'evaluation.py'** provides code to evaluate the predictive performance of different models using energy scores and average CRPS.
 
-- copula_correction.py needs the script utilities.py from [2]. 
+- copula_correction.py needs the script utilities.py from [2].
+- Python version: **3.10.16**
+- Requirements: requirements_evaluation.txt`
 
 ## Data
 

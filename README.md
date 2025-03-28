@@ -34,7 +34,6 @@ The experimental setup requires training and test data as used in [1] and [2]. T
 
 4. Use the scaler and trained models from [2], and save them in the 'trained_models' folder.
 
-## References
 
 [1]: https://github.com/johkruse/PIML-for-grid-frequency-modelling  
 [2]: https://github.com/bolin-liu/sequence-model-and-gaussian-process-for-frequency-prediction  
